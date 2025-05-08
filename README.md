@@ -4,5 +4,5 @@ My First Repository
 #Action movies
 
 1. The Avengers
-2. Transformer
-3. Fast and the Furious
+2. Transformers
+3. Fast & Furious
